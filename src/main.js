@@ -10,7 +10,7 @@ import router from "./router/index.js"
 sync(store, router)
 
 Vue.use(Vuelidate)
-Vue.use(VueAnalytics, { id: "UA-51029217-4", router: router })
+// Vue.use(VueAnalytics, { id: "UA-51029217-4", router: router })
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
