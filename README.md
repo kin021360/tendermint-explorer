@@ -47,17 +47,17 @@ We need a better backend solution for the Explorer! Please help if you can.
 
 ```sh
 # Install dependencies
-yarn
+npm install
 
 # Serve with hot reload at localhost:8080
-yarn serve
+npm run serve
 ```
 
 ## Deploy
 
 ```sh
 # Build for production with minification
-yarn build
+npm run build
 
 # Then serve the `./dist` folder with the web server of your choice
 ```
